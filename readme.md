@@ -1,4 +1,4 @@
-# Gestion Alumnos - Profesores - Cursos
+# Gestión Alumnos - Profesores - Cursos
 
 Desarrollado basado en la Arquitectura Hexagonal que nos permite aislar la lógica de negocio de los elementos externos como motores de base de datos, interfaz grafica o mensajería.
 
@@ -9,7 +9,7 @@ Desarrollado basado en la Arquitectura Hexagonal que nos permite aislar la lógi
 - Buscar alumnos segun profesor.
 - Registrar matrícula de alumnos selecionando curso y profesor.
 
-## Tecnologias
+## Tecnologías
 - Java 11
 - Spring Framework
 - Spring Boot
@@ -29,7 +29,7 @@ Puerto y ruta del swagger
 http://localhost:8500/gestion-backend/swagger-ui.html#/
 ```
 ## Estructura de carpetas
-La estructura de carpetas esta divida en application, domain e infraestructure.
+La estructura de carpetas esta dividida en application, domain e infraestructure.
 
     └───gestionbackend
         ├───application
